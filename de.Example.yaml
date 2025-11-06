@@ -1,20 +1,20 @@
 ---
 # An employee record
 name: Martin D'vloper
-job: Developer
+job: Entwickler
 skill: Elite
-employed: True
+employed: Wahr
 foods:
-    - Apple
+    - Apfel
     - Orange
-    - Strawberry     # context
+    - Erdbeere     # context
     - Mango
 languages:
     perl: Elite
     python: Elite
-    pascal: Lame
+    pascal: Lahm
 education: |
-    4 GCSEs
-    3 A-Levels
-    BSc in the Internet of Things
+    4 GCSE-Abschlüsse
+    3 Abiturprüfungen
+    BSc im Bereich Internet der Dinge
 ...
