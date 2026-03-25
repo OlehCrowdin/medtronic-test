@@ -2,4 +2,4 @@ files:
   - source: /*.i18n
     translation: '%original_path%'
     multilingual: 1
-    type: properties
+    type: json
