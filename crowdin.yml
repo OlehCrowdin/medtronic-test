@@ -1,5 +1,5 @@
 files:
   - source: /*.i18n
     dest: /%file_name%.json
-    translation: '/%file_name%.i18n'
+    translation: /%file_name%.i18n
     multilingual: 1
