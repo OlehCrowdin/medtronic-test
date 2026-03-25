@@ -1,5 +1,4 @@
 files:
   - source: Example.json
     translation: '%two_letters_code%.%file_name%.json'
-  - source: Example.yaml
-    translation: '%two_letters_code%.%file_name%.yaml'
+    type: properties
