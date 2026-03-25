@@ -1,198 +1,170 @@
 {
     "& below": {
-        "de-CH": "& weniger",
         "en-US": "& below",
-        "fr-CH": "et moins",
-        "it-CH": "e meno",
-        "nl-NL": "en lager"
+        "fr": "& below",
+        "de": "& below",
+        "fr-CH": "et moins"
     },
     "& up": {
-        "de-CH": "& mehr",
         "en-US": "& up",
-        "fr-CH": "et plus",
-        "it-CH": "e più",
-        "nl-NL": "en hoger"
+        "fr": "& up",
+        "de": "& up",
+        "fr-CH": "Toje new"
     },
     "(Myself)": {
-        "de-CH": "(Ich)",
         "en-US": "(Myself)",
-        "fr-CH": "(Moi-même)",
-        "it-CH": "(me stesso)",
-        "nl-NL": "(Mezelf)"
+        "fr": "(Myself)",
+        "de": "(Myself)",
+        "fr-CH": "New NEw"
     },
     "(multiple selection possible)": {
-        "de-CH": "(Mehrfachauswahl)",
         "en-US": "(you can select more than one)",
-        "fr-CH": "(sélection multiple)",
-        "it-CH": "(selezione multipla)",
-        "nl-NL": "(meervoudige selectie)"
+        "fr": "(you can select more than one)",
+        "de": "(you can select more than one)",
+        "fr-CH": "(sélection multiple)"
     },
     "+ Show more categories": {
-        "de-CH": "{ numberOfCategories, plural,\n  one {+ # Kategorie}\n  other {+ # Kategorien}\n}",
         "en-US": "{ numberOfCategories, plural,\n  one {+ # category}\n  other {+ # categories}\n}",
-        "fr-CH": "{ numberOfCategories, plural,\n  one {+ # catégorie}\n  other {+ # catégories}\n}",
-        "it-CH": "{ numberOfCategories, plural,\n  one {+ # categoria}\n  other {+ # categorie}\n}",
-        "nl-NL": "{ numberOfCategories, plural,\n  one {+ # categorie}\n  other {+ # categorieën}\n}"
+        "fr": "{ numberOfCategories, plural,\n  one {+ # category}\n  other {+ # categories}\n}",
+        "de": "{ numberOfCategories, plural,\n  one {+ # category}\n  other {+ # categories}\n}",
+        "fr-CH": "{ numberOfCategories, plural,\n  one {+ # catégorie}\n  other {+ # catégories}\n}"
     },
     "- Show less": {
-        "de-CH": "- Weniger anzeigen",
         "en-US": "- Show less",
-        "fr-CH": "- Voir moins",
-        "it-CH": "- Mostra meno",
-        "nl-NL": "- Minder tonen"
+        "fr": "- Show less",
+        "de": "- Show less",
+        "fr-CH": "- Voir moins"
     },
     "/ [0] on sale": {
-        "de-CH": "/ [0] im Sale",
         "en-US": "/ [0] on sale",
-        "fr-CH": "/ [0] en vente",
-        "it-CH": "/ [0] in vendita",
-        "nl-NL": "/ [0] te koop zijn"
+        "fr": "/ [0] on sale",
+        "de": "/ [0] on sale",
+        "fr-CH": "/ [0] en vente"
     },
     "0% interest": {
-        "de-CH": "Zinsfrei",
         "en-US": "0% interest",
-        "fr-CH": "Sans intérêts",
-        "it-CH": "Senza interessi",
-        "nl-NL": "0% rente"
+        "fr": "0% interest",
+        "de": "0% interest",
+        "fr-CH": "Sans intérêts"
     },
     "0900 phone numbers: customer service, ticket or product sales": {
-        "de-CH": "0900 Rufnummern: Kundenberatung, Ticket- oder Produktverkäufe",
         "en-US": "0900 phone numbers: customer service, ticket or product sales",
-        "fr-CH": "Numéros 0900 : service client, vente de tickets ou de produits",
-        "it-CH": "Numeri 0900: consulenza ai clienti, vendita di biglietti o prodotti",
-        "nl-NL": "0900 telefoonnummers: klantenservice, ticket- of productverkoop"
+        "fr": "0900 phone numbers: customer service, ticket or product sales",
+        "de": "0900 phone numbers: customer service, ticket or product sales",
+        "fr-CH": "Numéros 0900 : service client, vente de tickets ou de produits"
     },
     "DHL packstation": {
-        "de-CH": "DHL Packstation",
         "en-US": "DHL Packstation",
-        "fr-CH": "DHL Packstation",
-        "it-CH": "DHL Packstation",
-        "nl-NL": "DHL pakketstation"
+        "fr": "DHL Packstation",
+        "de": "DHL Packstation",
+        "fr-CH": "DHL Packstation"
     },
     "Daily Deal Meta Description": {
-        "de-CH": "Rabatt beim Tagesangebot von [0]: Täglich eine neue Aktion mit tiefem Preis.",
         "en-US": "Discount on the [0] daily offer: new promotions at a lower price every day.",
-        "fr-CH": "Offre du jour [0] à prix réduit : chaque jour une nouvelle promotion à bas prix.",
-        "it-CH": "Sconto sull'offerta del giorno [0]: ogni giorno una nuova promozione a prezzo ridotto.",
-        "nl-NL": "Korting op de dagaanbieding [0] : elke dag nieuwe acties voor een lagere prijs."
+        "fr": "Discount on the [0] daily offer: new promotions at a lower price every day.",
+        "de": "Discount on the [0] daily offer: new promotions at a lower price every day.",
+        "fr-CH": "Offre du jour [0] à prix réduit : chaque jour une nouvelle promotion à bas prix."
     },
     "Dark": {
-        "de-CH": "Dunkel",
         "en-US": "Dark",
-        "fr-CH": "Sombre",
-        "it-CH": "Scura",
-        "nl-NL": "Donker"
+        "fr": "Dark",
+        "de": "Dark",
+        "fr-CH": "Sombre"
     },
     "Data Privacy": {
-        "de-CH": "Datenschutz",
         "en-US": "Data Privacy",
-        "fr-CH": "Protection des données",
-        "it-CH": "Privacy dei dati",
-        "nl-NL": "Privacy van gegevens"
+        "fr": "Data Privacy",
+        "de": "Data Privacy",
+        "fr-CH": "Protection des données"
     },
     "Data and services": {
-        "de-CH": "Daten und Dienste",
         "en-US": "Data and services",
-        "fr-CH": "Données et services",
-        "it-CH": "Dati e servizi",
-        "nl-NL": "Data en diensten"
+        "fr": "Data and services",
+        "de": "Data and services",
+        "fr-CH": "Données et services"
     },
     "Data can be passed on to partner companies. This data is used exclusively for the processing of the service case.": {
-        "de-CH": "Daten können an Partnerfirmen weitergegeben werden. Diese werden dabei ausschliesslich zur Abwicklung des Servicefalls verwendet.",
         "en-US": "Data may be shared with partner companies. This data is used exclusively for the purpose of processing the service case.",
-        "fr-CH": "Les données peuvent être transmises à des entreprises partenaires. Celles-ci sont alors utilisées exclusivement pour le traitement du cas de service.",
-        "it-CH": "I dati possono essere trasmessi ad aziende affiliate e saranno utilizzati solo per l'elaborazione del caso di servizio.",
-        "nl-NL": "Data can be passed on to partner companies. This data is used exclusively for the processing of the service case."
+        "fr": "Data may be shared with partner companies. This data is used exclusively for the purpose of processing the service case.",
+        "de": "Data may be shared with partner companies. This data is used exclusively for the purpose of processing the service case.",
+        "fr-CH": "Les données peuvent être transmises à des entreprises partenaires. Celles-ci sont alors utilisées exclusivement pour le traitement du cas de service."
     },
     "Data from DHL": {
-        "de-CH": "Daten von DHL",
         "en-US": "Data from DHL",
-        "fr-CH": "Données de DHL",
-        "it-CH": "Dati di DHL",
-        "nl-NL": "Gegevens van DHL"
+        "fr": "Data from DHL",
+        "de": "Data from DHL",
+        "fr-CH": "Données de DHL"
     },
     "Data from Planzer": {
-        "de-CH": "Daten von Planzer",
         "en-US": "Data from Planzer",
-        "fr-CH": "Données de Planzer",
-        "it-CH": "Dati di Planzer",
-        "nl-NL": "Gegevens van Planzer"
+        "fr": "Data from Planzer",
+        "de": "Data from Planzer",
+        "fr-CH": "Données de Planzer"
     },
     "Data from Swiss Post": {
-        "de-CH": "Daten der Schweizerischen Post",
         "en-US": "Data from Swiss Post",
-        "fr-CH": "Données de la Poste suisse",
-        "it-CH": "Dati della Posta Svizzera",
-        "nl-NL": "Gegevens van Swiss Post"
+        "fr": "Data from Swiss Post",
+        "de": "Data from Swiss Post",
+        "fr-CH": "Données de la Poste suisse"
     },
     "Data from Swiss Post Cargo": {
-        "de-CH": "Daten von Swiss Post Cargo",
         "en-US": "Data from Swiss Post Cargo",
-        "fr-CH": "Données de Swiss Post Cargo",
-        "it-CH": "Dati di Swiss Post Cargo",
-        "nl-NL": "Gegevens van Swiss Post Cargo"
+        "fr": "Data from Swiss Post Cargo",
+        "de": "Data from Swiss Post Cargo",
+        "fr-CH": "Données de Swiss Post Cargo"
     },
     "Data from external sources": {
-        "de-CH": "Daten aus externen Quellen",
         "en-US": "Data from external sources",
-        "fr-CH": "Données provenant de sources externes",
-        "it-CH": "Dati provenienti da fonti esterne",
-        "nl-NL": "Gegevens uit externe bronnen"
+        "fr": "Data from external sources",
+        "de": "Data from external sources",
+        "fr-CH": "Données provenant de sources externes"
     },
     "Data protection declaration for the marketplace": {
-        "de-CH": "Datenschutzerklärung Marktplatz",
         "en-US": "Privacy notice marketplace ",
-        "fr-CH": "Déclaration de protection des données de place de marché",
-        "it-CH": "Informativa sulla privacy  di un marketplace",
-        "nl-NL": "Verklaring gegevensbescherming voor de marketplace"
+        "fr": "Privacy notice marketplace ",
+        "de": "Privacy notice marketplace ",
+        "fr-CH": "Déclaration de protection des données de place de marché"
     },
     "Data used - Add data package": {
-        "de-CH": "Daten verbraucht - Datenpaket hinzufügen",
         "en-US": "Data depleted - Add data package",
-        "fr-CH": "Données consommées - Ajouter un forfait de données",
-        "it-CH": "Dati consumati - Aggiungi pacchetto dati",
-        "nl-NL": "Data verbruikt - Datapakket toevoegen"
+        "fr": "Data depleted - Add data package",
+        "de": "Data depleted - Add data package",
+        "fr-CH": "Données consommées - Ajouter un forfait de données"
     },
     "Data used - speed reduced": {
-        "de-CH": "Daten verbraucht - Geschwindigkeit reduziert",
         "en-US": "Data depleted - speed reduced",
-        "fr-CH": "Données consommées - vitesse réduite",
-        "it-CH": "Dati consumati - velocità ridotta",
-        "nl-NL": "Data verbruikt - snelheid verlaagd"
+        "fr": "Data depleted - speed reduced",
+        "de": "Data depleted - speed reduced",
+        "fr-CH": "Données consommées - vitesse réduite"
     },
     "Deactivate": {
-        "de-CH": "Deaktivieren",
         "en-US": "Deactivate",
-        "fr-CH": "Désactiver",
-        "it-CH": "Disattiva",
-        "nl-NL": "Deactiveren"
+        "fr": "Deactivate",
+        "de": "Deactivate",
+        "fr-CH": "Désactiver"
     },
     "Deactivate authentication app": {
-        "de-CH": "Authentifizierungs-App deaktivieren",
         "en-US": "Deactivate authentication app",
-        "fr-CH": "Désactiver l'application d'authentification",
-        "it-CH": "Disattiva l'app di autenticazione",
-        "nl-NL": "Verificatie-app deactiveren"
+        "fr": "Deactivate authentication app",
+        "de": "Deactivate authentication app",
+        "fr-CH": "Désactiver l'application d'authentification"
     },
     "Deactivate user": {
-        "de-CH": "Benutzer deaktivieren",
         "en-US": "Deactivate user",
-        "fr-CH": "Désactiver l'utilisateur·rice",
-        "it-CH": "Disattiva l'utente",
-        "nl-NL": "Gebruiker deactiveren"
+        "fr": "Deactivate user",
+        "de": "Deactivate user",
+        "fr-CH": "Désactiver l'utilisateur·rice"
     },
     "Deadline": {
-        "de-CH": "Frist",
         "en-US": "Closing date",
-        "fr-CH": "Date limite",
-        "it-CH": "Scadenza",
-        "nl-NL": "Sluitingsdatum"
+        "fr": "Closing date",
+        "de": "Closing date",
+        "fr-CH": "Date limite"
     },
     "Deals of the Day": {
-        "de-CH": "Tagesangebot",
         "en-US": "Deal of the day",
-        "fr-CH": "l'offre du jour",
-        "it-CH": "l'offerta del giorno",
-        "nl-NL": "Deal van de dag"
+        "fr": "Deal of the day",
+        "de": "Deal of the day",
+        "fr-CH": "l'offre du jour"
     }
 }
